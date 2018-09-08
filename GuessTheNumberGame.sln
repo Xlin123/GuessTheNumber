@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp6", "WpfApp6\WpfApp6.csproj", "{C157E577-21E8-4621-BBA0-9BCED21B7BA1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessNumber", "WpfApp6\GuessNumber.csproj", "{C157E577-21E8-4621-BBA0-9BCED21B7BA1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "guessnumbertest", "guessnumbertest\guessnumbertest.csproj", "{78DC5C2B-8304-4D29-8413-1DF8A96121E5}"
 EndProject

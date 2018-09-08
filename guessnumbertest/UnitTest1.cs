@@ -9,6 +9,7 @@ namespace guessnumbertest
         [TestMethod]
         public void TestMethod1()
         {
+
         }
     }
 }
